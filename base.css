@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  user-select: none;
+  outline: none;
+  font-family: 'Saira Stencil One', sans-serif;
+  font-weight: 400;
+}
+
+body {
+  min-width: 320px;
+  background: #fff;
+  color: var(--black);
+}
+
+.container {
+  max-width: 1330px;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+button {
+  outline: none;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
